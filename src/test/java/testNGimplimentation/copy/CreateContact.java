@@ -21,6 +21,7 @@ import objectRepository.CreatingNewContactPage;
 import objectRepository.HomePage;
 
 @Listeners(genericUtilities.ListenersImplementation.class)
+//user should able create org
 public class CreateContact extends BaseClass {
 
 	public WebElement path(WebDriver d, String s) {
