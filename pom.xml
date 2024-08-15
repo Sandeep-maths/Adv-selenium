@@ -68,7 +68,7 @@
 				<version>3.3.1</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>pri.xml</suiteXmlFile>
+						<suiteXmlFile>batch.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
