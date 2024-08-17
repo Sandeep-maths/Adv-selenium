@@ -68,13 +68,14 @@
 				<version>3.3.1</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>Sample.xml</suiteXmlFile>
+						<suiteXmlFile>pri.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
 
 		</plugins>
 	</build>
+	
 	
 	
 </project>
